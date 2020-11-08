@@ -16,7 +16,7 @@
     
 ## Use Case Architecture
 
-![](https://github.com/2PWA/docs/blob/main/resources/use-case-architecture.PNG)
+![](https://github.com/2PWA/docs/blob/main/resources/use-case-architectures.PNG)
 
 ## Originality and innovation
 
