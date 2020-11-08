@@ -12,11 +12,11 @@
 
 ## Reactive Architecture
 
-![](https://github.com/2PWA/docs/blob/master/resources/reactive-architecture.PNG)
-
+![](https://github.com/2PWA/docs/blob/main/resources/reactive-architecture.PNG)
+    
 ## Use Case Architecture
 
-![](https://github.com/2PWA/docs/blob/master/resources/use-case-architecture.PNG)
+![](https://github.com/2PWA/docs/blob/main/resources/use-case-architecture.PNG)
 
 ## Originality and innovation
 
