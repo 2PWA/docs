@@ -2,7 +2,7 @@
 
 ## Index 
 
-* [Reactive Architecture](##Reactive-Architecture)
+* [Reactive Architecture](#Reactive-Architecture)
 * [Use Case Architecture](##Use-Case-Architecture)
 * [Originality and innovation](##Originality-and-innovation)
 * [Technical viability](##Technical-viability)
