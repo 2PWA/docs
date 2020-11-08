@@ -79,7 +79,7 @@ One of the ways to get a reveneu for this project is with a monthly subscription
 
 In order to understand how to achieve a reveneu with the messages sent, we need to check the next table.
 
-![](https://github.com/2PWA/docs/blob/main/resources/use-case-architectures.PNG)
+![](https://github.com/2PWA/docs/blob/main/resources/cost-per-messages.PNG)
 
 As you can see in the table above, the messages sent get cheaper when the application grows in the amount of the messages sent, so our idea is to charge every user with the most expensive price and when the application grows our reveneu are going to be the difference between the most expensive price and the custom price.
 
