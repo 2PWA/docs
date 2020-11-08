@@ -65,9 +65,9 @@ Be aware that cost are going to chaneg with time, when the application get bigge
 - Domain: 1USD
 - DB: 15USD
 - Proxy: 25USD
-- Implementation: 9000
+- Implementation: 4500 (15 USD per hour/300 hour per month)
 
-Total amount per month : 9066 USD
+Total amount per month : 4566 USD
 
 ### Reveneu per Moth
 
