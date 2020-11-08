@@ -92,7 +92,6 @@ As you can see in the above table, the messages sent get cheaper when the applic
     <th># Message Sent</th>
     <th># Companies</th>
     <th># Messages per Motht</th>
-    <th>Base Price</th>
     <th>Cost per Company</th>
     <th>Base Price</th>
     <th>Custom Price</th>
@@ -104,7 +103,6 @@ As you can see in the above table, the messages sent get cheaper when the applic
     <td>5</td>
     <td>20</td>
     <td>20000</td>
-    <td>200</td>
     <td>10</td>
     <td>200</td>
     <td>200</td>
@@ -116,7 +114,6 @@ As you can see in the above table, the messages sent get cheaper when the applic
     <td>10</td>
     <td>40</td>
     <td>160000</td>
-    <td>1600</td>
     <td>40</td>
     <td>1600</td>
     <td>1600</td>
@@ -128,10 +125,20 @@ As you can see in the above table, the messages sent get cheaper when the applic
     <td>20</td>
     <td>50</td>
     <td>500000</td>
-    <td>5000</td>
     <td>100</td>
     <td>5000</td>
     <td>4875</td>
     <td>125</td>
+  </tr>
+    <tr>
+    <td>20</td>
+    <td>50</td>
+    <td>40</td>
+    <td>100</td>
+    <td>4000000</td>
+    <td>400</td>
+    <td>40000</td>
+    <td>36025</td>
+    <td>3975</td>
   </tr>
 </table>
