@@ -8,7 +8,7 @@
 * [Technical viability](#Technical-viability)
 * [Business idea and Project feasibility](#Business-idea-and-Project-feasibility)
 * [Impact on the market and Economic feasibility](#Impact-on-the-market-and-Economic-feasibility)
-
+* [Slides](https://docs.google.com/presentation/d/19RwXZjE0LdA0zyNjEM9zlpZL74H7aAtsALjQrCVxSlE/edit?usp=sharing)
 ## Reactive Architecture
 
 ![](https://github.com/2PWA/docs/blob/main/resources/reactive-architecture.PNG)
