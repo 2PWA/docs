@@ -6,8 +6,8 @@
 * [Use Case Architecture](#Use-Case-Architecture)
 * [Originality and innovation](#Originality-and-innovation)
 * [Technical viability](#Technical-viability)
-* [Business idea / Project feasibility](#Business-idea-/-Project-feasibility)
-* [Impact on the market / Economic feasibility](#Impact-on-the-market-/-Economic-feasibility)
+* [Business idea / Project feasibility](#Business-idea-&-Project-feasibility)
+* [Impact on the market / Economic feasibility](#Impact-on-the-market-&-Economic-feasibility)
 
 ## Reactive Architecture
 
@@ -45,7 +45,7 @@ In future steps when the application grows we are going to need more technologie
 
 So far we know that we need to use some cloud technologies in order to create and scalable, highly available and secure appication ,nevertheless we still dont make the decision about which cloud technologies we are going to use.
 
-## Business idea / Project feasibility
+## Business idea & Project feasibility
 
 Almost every single company requires a well-developed authentication mechanism, our API was designed with the idea of provide a Multi factor authentication using WhatsApp to medium and large companies.
 
@@ -53,11 +53,11 @@ Almost every single company requires a well-developed authentication mechanism, 
 
 - Secondly users registered to the API are going to pay for every message sent.
 
-## Impact on the market / Economic feasibility
+## Impact on the market & Economic feasibility
 
 As we know in current days there are thousand of new application in the market, all of those application are our target market.
 
-## Cost per Moth
+### Cost per Moth
 
 Be aware that cost are going to chaneg with time, when the application get bigger the cost are going to grow too.
 
@@ -69,13 +69,13 @@ Be aware that cost are going to chaneg with time, when the application get bigge
 
 Total amount per month : 9066 USD
 
-## Reveneu per Moth
+### Reveneu per Moth
 
-### Fixed Price
+#### Fixed Price
 
 One of the ways to get a reveneu for this project is with a monthly subscription of 10 USD.
 
-### Messages Sent
+#### Messages Sent
 
 In order to understand how to achieve a reveneu with the messages sent, we need to check the next table.
 
