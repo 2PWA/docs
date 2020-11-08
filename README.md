@@ -8,7 +8,6 @@
 * [Technical viability](#Technical-viability)
 * [Business idea / Project feasibility](#Business-idea-/-Project-feasibility)
 * [Impact on the market / Economic feasibility](#Impact-on-the-market-/-Economic-feasibility)
-* [Future Tasks](#Future-Tasks)
 
 ## Reactive Architecture
 
@@ -29,31 +28,26 @@
 
 ## Technical Viability
 
-In order to ofer a excelent service to our the customer 
-
 Our MVP of the API is going to be developed with the next stack of technologies:
 
 - Java 11 
 - Hexagonal Architecure
 - Reactive Language(Reactor + WebFlux)
-- Twilio
+- API WhatsApp Bussiness
 
-In future steps when the application grows we are going to need more technologies with the purpose of giving to user high availability:
+In future steps when the application grows we are going to need more technologies with the purpose of giving to the user a better experience:
 
 - Docker
 - Kubernetes
-- AWS
-- Message Broker -> Which one?
-- Load Balancer -> ? 
+- Cloud Provider
+- Message Broker
+- Load Balancers
+
+So far we know that we need to use some cloud technologies in order to create and scalable, highly available and secure appication ,nevertheless we still dont make the decision about which cloud technologies we are going to use.
 
 ## Business idea / Project feasibility
 
-Almost every single company requires a well-developed authentication, our API was thinking idea is 
-
-This Multi-Factor API was designed with the 
-
-
+Almost every single company requires a well-developed authentication mechanism, our API was designed with the idea of provide a Multi factor authentication using WhatsApp to medium and large companies.
 
 ## Impact on the market / Economic feasibility
 
-## Future Tasks
